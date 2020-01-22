@@ -1,7 +1,7 @@
 # chawalar.github.io
 Data science portfolio
 
-# Kaggle competitions.
+# Kaggle competitions
 
 ### Flight delays prediction for 15 minutes
 Predict whether a flight will be delayed for more than 15 minutes. Flight delays dataset provides interesting opportunities for feature engineering and exploratory data analysis (EDA). General description and data are available on [Kaggle](https://www.kaggle.com/c/flight-delays-fall-2018/data). I'm used catboost model, here is my solution.
