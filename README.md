@@ -21,6 +21,13 @@ In this competition task is to predict the outcome of a MOBA game given all the 
 
 This competition is organized in collaboration with GOSU.AI - developers of the platform which helps to play smarter and improve skills through detailed analysis of matches and personal recommendations in DOTA 2, PUBG, Counter Strike and other games.
 
-'MOBA' it's a genre of a games like this. I can't use real name of the game, because it's active in class competition of mlcourse.ai.
+'MOBA' it's a genre of a games like this. I dont't use real name of the game, because it's active in class competition of mlcourse.ai.
 General description and data are available on [Kaggle](https://www.kaggle.com/c/mlcourse-dota2-win-prediction).
 
+In this competition i'm created a team of three members.
+We geted the first place in private leaderborde on Kaggle.
+Models we used:
+LGBM, PyTorch, Catboost, LR with more new features and methods, trainded of different types of parameters with stacking and blending.
+For example and for methods view i'm upload only lgbm model (beacouse its still inclass active competition).
+
+[GitHub](https://github.com/Chawalar/chawalar.github.io/blob/master/Notebooks/moba2_lgb.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/Chawalar/chawalar.github.io/blob/master/Notebooks/moba2_lgb.ipynb)
